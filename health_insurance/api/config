@@ -1,0 +1,4 @@
+[default_db]
+SECRET_KEY = 0ca0b66870d8260ddadc8606ecbaa42f19b68d76
+USERNAME = username
+PASSWORD = password
